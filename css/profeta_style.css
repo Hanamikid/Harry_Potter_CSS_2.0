@@ -1,0 +1,287 @@
+@font-face{
+    font-family:'ManilaSansBld';
+    src: url('../fonts/ManilaSansBld.otf');
+}
+@font-face{
+    font-family:'ArvoBold';
+    src: url('../fonts/Arvo-Bold.ttf');
+}
+@font-face{
+    font-family:'MagicSchoolTwo';
+    src: url('../fonts/Magic_School_Two.ttf');
+}
+@font-face{
+    font-family: 'WesternNormal';
+    src: url('../fonts/Western_Normal.ttf');
+}
+@font-face{
+    font-family: 'AntonRegular';
+    src: url('../fonts/Anton-Regular.ttf');
+}
+@font-face {
+    font-family:'SancreekRegular';
+    src:url("../fonts/Sancreek-Regular.ttf");
+}
+@font-face {
+    font-family:'BreeSerif';
+    src:url("../fonts/BreeSerif-Regular.ttf")
+}
+div{
+    float: left;
+}
+.egesz{
+    width: 1450px;
+}
+body{
+    background-color: rgb(216, 209, 183);
+}
+p{
+    text-transform: uppercase;
+}
+.kis{
+    text-transform: lowercase;
+    text-align:justify;
+}
+.neville{
+    font-family:'ManilaSansBld';
+    height: 145px;
+    width: 335px;
+    line-height: 140%;
+    margin-top: 0px;
+}
+.neville p{
+    font-size:36px;
+    transform: scale(1,1.2);
+    
+}
+#longbottom1{
+    letter-spacing: 3px;
+}
+#longbottom2{
+    letter-spacing: 1.2px;
+    line-height: 99%;
+}
+#longbottom3{
+    line-height: 99%;
+    font-size:31px;
+
+}
+.neville img{
+    float: left;
+}
+.neville img:nth-child(2) {
+    height:120px;
+    vertical-align:bottom;
+    float:right;
+    margin-top:25px;
+   
+}
+.ketto{
+    height:145px;
+    width:700px;
+
+}
+.harom{
+    font-family:'ArvoBold';
+    height:145px;
+    width:385px; 
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 80%;
+}
+#margintop{
+    margin-top: 0px;
+}
+p #span1{
+    font-family: arial;
+    background-color: black;
+    color:rgb(216, 209, 183);
+    text-shadow: 2px 2px rgb(138, 135, 123);
+    letter-spacing: 5px;
+    font-size: 45px;
+}
+.negy{
+    font-family: 'AntonRegular';
+    height:310px;
+    width:490px;
+    background-color: black;
+    color:rgb(216, 209, 183);
+    line-height: 105%;
+    font-weight: bold;
+    font-size: 150px;
+}
+.negy p{
+    transform: scale(1.2, 1);
+    margin-left: 50px;
+}
+#negyls{
+    letter-spacing: 8px;
+}
+.ot{
+    height:310px;
+    width:580px;
+    font-family:'ManilaSansBld';
+    font-size: 65px;
+    line-height: 80%;
+    
+}
+.ot p{
+    margin-top: 50px;
+    transform: scale(1, 1.5);
+}
+.ot img{
+    float: right;
+    height: 100%;
+}
+#otls{
+    letter-spacing: 6.5px;
+}
+.hat{
+    height:350px;
+    width:295px;
+}
+#page5{
+    font-family:'ManilaSansBld';
+    font-size:48px;
+    line-height:0%;
+    transform:scale(1,2);
+}
+.hat img{
+    float: left;
+}
+.naptar{
+    margin-top: -35px;
+    width:300px;
+    height:440px;
+}
+.napcim{
+    font-family:'SancreekRegular';
+    font-size:45px;
+    line-height:0%;
+    margin-top: 30px;
+}
+.napok{
+    font-size:23px;
+}
+.week{
+    font-size: 12px;
+}
+.naptar p:nth-child(1) {
+    font-family:'ArvoBold';
+    font-size:32px;
+    text-align:Center;
+    line-height:99%;
+    margin-top:0px;
+}
+.naptar span:nth-child(2) {
+    font-family: 'AntonRegular';
+    letter-spacing:3px;
+    line-height:99%;
+}
+.naptar span:nth-child(1) {
+    font-size:35px;
+    line-height:0%;
+}
+
+.naptar li{
+    text-align: center;
+    width:42.8px;
+    height:35px;
+    float:left;
+    list-style-type:none;
+    font-family:'ArvoBold';
+}
+.naptar ul{
+    width:300px;
+    margin-top:-20px;
+    margin-left:-40px;
+}
+.naptar hr{
+    border:2px solid black;
+    margin-top:-15px;
+    margin-bottom: 40px;
+    width:95%;
+}
+.python{
+    margin-top: -35px;
+    height:385px;
+    width:365px; 
+    background-image: url('../img/python.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+}
+.kilenc{
+    margin-top: -35px;
+    height:225px;
+    width:400px;
+    border-top: 4px solid black;
+    padding-top: 10px;
+}
+.kilenc img{
+    float: left;
+    height: 95px;
+    margin-top: -12px;
+}
+.kilenc #snape{
+    font-family:'ManilaSansBld';
+    font-size: 45px;
+}
+#realstory{
+    letter-spacing: 7px;
+}
+.cim{
+    font-family:'BreeSerif';
+    font-size:30px;
+    font-weight:bold;
+    line-height:99%;
+    transform: scale(1, 1.5);
+
+}
+.roxfort{
+    height:190px;
+    width:320px; 
+}
+.roxfort img{
+    height:100%;
+    width:92%;
+}
+.tizenegy{
+    font-family:'ArvoBold';
+    height:140px;
+    width:720px; 
+}
+.tizenegy p{
+    margin-top: 0px;
+}
+.tizenegy img{
+    float: left;
+    height: 100%;
+}
+.tizenegy span:nth-child(1){
+    font-size:36px;
+}
+.tizenegy span:nth-child(3){
+    font-family: 'WesternNormal';
+    font-size:45px;
+}
+.tizenegy span:nth-child(5){
+    font-size:57px;
+    line-height: 90%;
+}
+
+.tizenketto{
+    height:45px;
+    width:1085px; 
+}
+.tizenketto img{
+    height: 100%;
+    float: left;
+}
+.tizenketto p{
+    font-family:'ManilaSansBld';
+    font-size:35px;
+    margin-top: 0px;
+    transform: scale(1,1.5);
+}
